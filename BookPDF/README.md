@@ -1,5 +1,7 @@
 # 书页 PDF 1.0
 
+**[下载安装包](downloads/BookPDF-1.0.apk?raw=true)** · [项目首页](../README.md)
+
 安卓本地电子书转换工具。Android 8.0 及以上，无联网权限、无广告、无登录。
 
 ## 使用
